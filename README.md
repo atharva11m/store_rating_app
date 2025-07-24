@@ -14,14 +14,16 @@ This is a full-stack web application that allows users to rate stores and view a
 
 ------------
 
-👥 Roles
+Roles
 User: Can rate stores and see average ratings
 
 Store Owner: Can add and manage their store details
 
 Admin: Manages all users and store data
 
-📌 Pages
+----------
+
+Pages
 Home
 
 Login / Signup
