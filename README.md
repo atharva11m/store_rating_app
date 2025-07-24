@@ -40,31 +40,31 @@ Owner Dashboard
 Screenshots:
 
 Home Page
-<img width="1920" height="1080" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/859ed178-039c-4c8a-a6c7-f3e77c2eaa12" />
+<img width="1902" height="853" alt="Screenshot (138)" src="https://github.com/user-attachments/assets/a43f8497-4318-4488-8776-948e33d6e9e1" />
 
 Registration Page
-<img width="1920" height="1080" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/593c3929-f344-4630-b85b-40a2bac58823" />
+<img width="1920" height="858" alt="Screenshot (139)" src="https://github.com/user-attachments/assets/6667ae67-08ef-4b3e-a3c5-540fe246e7fe" />
 
 About Us Page
-<img width="1920" height="1080" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/645542f7-9845-40a2-bd96-40cf28e1a5c8" />
+<img width="1920" height="858" alt="Screenshot (140)" src="https://github.com/user-attachments/assets/99f56acc-c320-4b6a-b8c3-54ef8cd16854" />
 
 Contact Us 
-<img width="1920" height="1080" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/79c107c7-af07-4ac2-8510-f4c84215e4c2" />
+<img width="1920" height="829" alt="Screenshot (141)" src="https://github.com/user-attachments/assets/7f11596a-63c6-4256-889e-cf1a272ac7fd" />
 
 Login Page
-<img width="1920" height="1080" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/c59be7be-9e93-4347-a426-66308f5171ba" />
+<img width="1901" height="856" alt="Screenshot (142)" src="https://github.com/user-attachments/assets/31bc7a6e-b353-4b1f-9aa4-7ee492d23f61" />
 
 Store Owner Dashboard
-<img width="1920" height="1080" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/2b1f2946-7008-4215-aa27-1698b6bbb2c2" />
+<img width="1905" height="852" alt="Screenshot (143)" src="https://github.com/user-attachments/assets/d65c8d5d-6ebb-416c-be50-57ef47e38acf" />
+
 
 User Dashboard
-<img width="1920" height="1080" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/1d7cfcff-3298-48fb-a17e-26367b4cf72b" />
+<img width="1900" height="856" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/3aa59342-b417-4873-9dbe-3b9acd1a7246" />
 
 Admin Dashboard/users
-<img width="1920" height="1080" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/dfca796d-1a7a-4d19-b25c-8ee2954c814e" />
+<img width="1897" height="843" alt="Screenshot (145)" src="https://github.com/user-attachments/assets/4ff1c6eb-96be-44d9-a0b6-3b5f76bcbd89" />
 
-Admin Dashboard/stores
-<img width="1920" height="1080" alt="Screenshot (146)" src="https://github.com/user-attachments/assets/2773730b-814c-494f-8ab4-1f3f10559654" />
+
 
 
 
